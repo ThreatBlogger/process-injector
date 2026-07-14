@@ -1,2 +1,2 @@
 
-![Test Image 1](process-injector.jpg)
+![process-injector](process-injector.jpg)
